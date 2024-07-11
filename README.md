@@ -1,7 +1,7 @@
-# IOT ENERGY TARIFF
+# Next-Gen Smart Metering for Energy Efficiency Using IoT:
 # Overview
 
-The IoT Energy Tariff Management System is a smart home automation project designed to control household appliances remotely while providing real-time energy consumption data. This system incorporates a live tariff meter for each appliance, an energy calculator, and a scheduler for efficient energy management.
+The Next-Gen Smart Metering for Energy Efficiency Using IoT is a smart home automation project designed to control household appliances remotely while providing real-time energy consumption data. This system incorporates a live tariff meter for each appliance, an energy calculator, and a scheduler for efficient energy management.
 
 # Features
 1. Remote Appliance Control
